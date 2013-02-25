@@ -12,8 +12,4 @@ class Continuity < Formula
   def install
     system "make", "prefix=#{prefix}", "install"
   end
-
-  def test
-    system "#{bin}/continuity", "--version"
-  end
 end
