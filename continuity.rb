@@ -2,8 +2,8 @@ require 'formula'
 
 class Continuity < Formula
   homepage 'https://github.com/jzempel/continuity'
-  url 'https://github.com/jzempel/continuity/tarball/0.3'
-  md5 '217107912691935dd15b92b7d4e6e70e'
+  url 'https://github.com/jzempel/continuity/tarball/0.4'
+  md5 'bb3103334f1e6f2ad35c5556b96a9968'
   head 'https://github.com/jzempel/continuity.git'
 
   # The pyinstaller-built binary complains on strip.
