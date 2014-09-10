@@ -2,8 +2,8 @@ require 'formula'
 
 class Continuity < Formula
   homepage 'https://github.com/jzempel/continuity'
-  url 'https://pypi.python.org/packages/source/c/continuity/continuity-0.9.1.tar.gz'
-  sha1 'bec926f615032834ba895c651e654d7078153cd2'
+  url 'https://pypi.python.org/packages/source/c/continuity/continuity-0.9.2.tar.gz'
+  sha1 'bbf1f1ea808e0f95601498edfb0d314a2545adf8'
   head 'https://github.com/jzempel/continuity.git'
 
   # The pyinstaller-built binary complains on strip.
